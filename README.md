@@ -46,7 +46,7 @@ B Student Sphere offers a multitude of features to streamline student life:
 
 This full-stack platform is built with modern and robust technologies to ensure performance, scalability, and a great user experience:
 
-* **Frontend:** ReactJS, Next.js, JavaScript, Tailwind CSS (implied by React/Next stack in resume's solution section), TypeScript
+* **Frontend:** ReactJS, Next.js, JavaScript, Tailwind CSS (implied by React/Next stack), TypeScript
 * **Backend:** MongoDB (NoSQL, document-oriented database for efficient data storage)
 * **Authentication:** Clerk (a platform designed for simplified user authentication and management)
 * **Deployment:** Heroku/AWS
@@ -61,17 +61,29 @@ This full-stack platform is built with modern and robust technologies to ensure 
 
 ### 🖼️ Visuals
 
+Here are some glimpses of the B Student Sphere application in action:
 
+#### Account Creation & Authentication
+![Create Account Page](images/signup-create-account.jpg)
+*Users can create new accounts with various options like GitHub, Google, or email/password.*
 
-* **Sign-in/Sign-up Windows:** Demonstrating comfortable authentication options.
-* **Onboarding Process:** Steps to verify email and complete user profile.
-* **Home Page:** Displaying recent posts and events.
-* **Search Page:** Functionality to search communities.
-* **Activity Page:** Showing user notifications and interactions.
-* **Create Thread/Post Page:** Interface for sharing content.
-* **Profile Page:** User's personal space.
-* **Communities Page:** Browse and view different college communities.
-* **Community Creation Page:** Interface to create new clubs or groups.
+![Verify Email Page](images/signup-verify-email.jpg)
+*A secure step for email verification during the sign-up process.*
+
+#### Home & Feed
+![Home Feed Page](images/home-feed.jpg)
+*The main feed displaying recent posts and updates from the college community.*
+
+#### Communities
+![Communities List Page](images/communities-list.jpg)
+*Discover and join different college clubs and communities.*
+
+![Community Creation Menu](images/community-creation-menu.jpg)
+*Options for managing personal accounts or creating new organizational entities.*
+
+#### User Profile
+![User Profile Page](images/profile-page.jpg)
+*View and manage your personal profile, including your threads and replies.*
 
 ### 🧑‍💻 About the Creator
 
@@ -95,4 +107,4 @@ Feel free to reach out if you have any questions, feedback, or just want to conn
 This project is open source and available under the [MIT License](https://opensource.org/licenses/MIT).
 
 
----v
+---
