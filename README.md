@@ -64,25 +64,25 @@ This full-stack platform is built with modern and robust technologies to ensure 
 Here are some glimpses of the B Student Sphere application in action:
 
 #### Account Creation & Authentication
-![Create Account Page](images/signup-create-account.jpg)
+![Create Account Page](images/signup-create-account.png)
 *Users can create new accounts with various options like GitHub, Google, or email/password.*
 
-![Verify Email Page](images/signup-verify-email.jpg)
+![Verify Email Page](images/signup-verify-email.png)
 *A secure step for email verification during the sign-up process.*
 
 #### Home & Feed
-![Home Feed Page](images/home-feed.jpg)
+![Home Feed Page](images/home-feed.png)
 *The main feed displaying recent posts and updates from the college community.*
 
 #### Communities
-![Communities List Page](images/communities-list.jpg)
+![Communities List Page](images/communities-list.png)
 *Discover and join different college clubs and communities.*
 
-![Community Creation Menu](images/community-creation-menu.jpg)
+![Community Creation Menu](images/community-creation-menu.png)
 *Options for managing personal accounts or creating new organizational entities.*
 
 #### User Profile
-![User Profile Page](images/profile-page.jpg)
+![User Profile Page](images/profile-page.png)
 *View and manage your personal profile, including your threads and replies.*
 
 ### 🧑‍💻 About the Creator
